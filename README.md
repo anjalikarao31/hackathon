@@ -7,3 +7,6 @@ Through this software we plan on educating people on various interesting and uni
  
 
 https://mail.google.com/mail/u/0?ui=2&ik=a0154cd491&attid=0.1&permmsgid=msg-a:r2222822324669920623&view=att&disp=safe&realattid=f_lq707arm0
+
+to open the poject 
+click recent projects and click on "Anjalika lenovo"
