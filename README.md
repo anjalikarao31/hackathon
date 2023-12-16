@@ -6,6 +6,12 @@ We want to foster a connection between kids and Maths as a lot of children are a
 
 Through this software we plan on educating people on various interesting and unique Mathematical concepts, starting with basics like the Fibonacci sequence and operations on matrices. 
 
+
+please download the IDE blueJ
+
+https://www.bluej.org/
+
+
 https://mail.google.com/mail/u/0?ui=2&ik=a0154cd491&attid=0.1&permmsgid=msg-a:r2222822324669920623&view=att&disp=safe&realattid=f_lq707arm0
 
 to open the poject 
